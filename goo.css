@@ -1,0 +1,117 @@
+*{
+    background-color: none;
+    list-style: none;
+    border-radius: 0%;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    align-items: center;
+margin-right: 35px;
+margin-top: 20px;
+justify-content: flex-end;
+}
+nav a{
+    font-size: 15px;
+    display: inline-block;
+    font-weight: 500;
+    cursor: pointer;
+    padding: 10px 15px;
+    color: blue;
+}
+.bi-three-dots{
+    width: 33px;
+    padding: 4px;
+    cursor: pointer;
+    margin: 5px auto;
+}
+.container{
+    flex: 1;
+}
+.container .gle{
+    display: block;
+    margin: 0px auto;
+    margin-top: 110px;
+}
+.fath{
+    width: 30px;
+    position: absolute;
+    left: 1065px;
+    bottom: 435px;
+}
+.water{
+    border-radius: 25px;
+    border: 1px solid #ddd;
+    display: block;
+    padding: 13px;
+    width: 40%;
+    padding-left: 45px;
+    position: absolute;
+    margin-left: 460px;
+
+}
+.afb{
+    width: 30px;
+    position: absolute;
+    left: 1110px;
+    bottom: 438px;
+}
+.bi-search{
+    position: absolute;
+    left: 480px;
+    bottom: 450px;
+}
+.c-box{
+    padding: 9px 15px;
+    background-color:#f8fafb;
+    font-size: 13px;
+    border-radius: 4px;
+    display: inline-block;
+    border: 1px solid transparent;
+    margin-top: 80px;
+    margin-right: 400px;
+    cursor: pointer;
+}
+.a-box{
+    padding: 9px 15px;
+    background-color: #f8fafb;
+    font-size: 13px;
+    border-radius: 4px;
+    display: inline-block;
+    border: 1px solid transparent;
+    margin-top: 80px;
+    margin-left: 600px;
+    cursor: pointer;
+}
+.what{
+    margin-left: 600px;
+}
+.who{
+    color: blue;
+    margin-left: 120px;
+    margin-top: -32px;
+}
+.footer1{
+    bottom: 0;
+    background-color: #f8fafb;
+    position: fixed;
+    width: 100%;
+    padding: 5px 5px;
+    margin-top: 250px;
+    
+}
+.why{
+   padding: 0 10px;
+}
+.pat{
+   display: flex;
+   justify-content: space-between;
+}
+
+
+
+    
+
+
+
